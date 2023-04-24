@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Sahil18718/Sahil18718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><h1 align="center">Hi 👋, I'm Sahil Malviya</h1>
+-->
+<h1 align="center">Hi 👋, I'm Sahil Malviya</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 - 💬 Ask me about **Node JS || Express || Mongo DB || Javascript || Python || CSS || My SQL**
