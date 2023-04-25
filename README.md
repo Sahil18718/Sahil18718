@@ -13,14 +13,14 @@
 
 - 💬 Ask me about **Node JS || Express || Mongo DB || Javascript || Python || CSS || My SQL**
 
-- 📫 How to reach me **SahilMalviya18718@gamil.com**
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/drive/u/0/folders/1f2Zp98VlCUF0QYHFJtyKRfCVKzCiJ_xd)
+
+- 📄 Resume [Click Here](https://drive.google.com/drive/u/0/folders/1f2Zp98VlCUF0QYHFJtyKRfCVKzCiJ_xd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sahilmalviya18718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahilmalviya18718" height="30" width="40" /></a>
- <a href="https://mail.google.com/mail/u/0/?ogbl#inbox" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1b7Zb4f7LTEWo6_1mtrkyokm7LmL7zA8-5iBJnC_6&s" alt="sahilmalviya18718" height="30" width="40" /></a>
+ <a href="https://mail.google.com/mail/u/0/?ogbl#inbox" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1b7Zb4f7LTEWo6_1mtrkyokm7LmL7zA8-5iBJnC_6&s" alt="sahilmalviya18718" height="30" width="40" align="320" /></a>
 </p>
 
 <h3 align="left"  margin-left="100px" background-color="white" >Languages and Tools:</h3>
@@ -39,6 +39,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil18718&show_icons=true&locale=en" alt="sahil18718" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil18718" alt="sahil18718" /></a> </p>
+<p >&nbsp;<img " src="https://github-readme-stats.vercel.app/api?username=sahil18718&show_icons=true&locale=en" alt="sahil18718" align="center /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil18718" alt="sahil18718" /></a> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil18718&" alt="sahil18718" /></p>
