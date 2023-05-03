@@ -15,7 +15,7 @@
 
 
 
-- 📄 Resume [Click Here](https://drive.google.com/drive/u/0/folders/1f2Zp98VlCUF0QYHFJtyKRfCVKzCiJ_xd)
+- 📄 Resume [Click Here](https://drive.google.com/file/d/1iAqMXfsBQPrOkNgpgzhok94RpIugudPi/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
