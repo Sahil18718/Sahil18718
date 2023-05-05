@@ -40,24 +40,11 @@
 </p>
 
 
+![](https://github-readme-stats.vercel.app/api?username=Sahil18718&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<p >&nbsp;<img " src="https://github-readme-stats.vercel.app/api?username=sahil18718&show_icons=true&locale=en" alt="sahil18718" align="center /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil18718" alt="sahil18718" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil18718&show_icons=true&locale=en&layout=compact" alt="sahil18718" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil18718&" alt="sahil18718" /></p>
 
 
 
-
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sahil Malviya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sahil Malviya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil Malviya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Sahil Malviya&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
