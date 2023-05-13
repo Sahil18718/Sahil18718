@@ -43,6 +43,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Sahil18718&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil18718" alt="sahil18718" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil18718&show_icons=true&locale=en&layout=compact" alt="sahil18718" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil18718&hide_progress=true)]
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil18718&" alt="sahil18718" /></p>
