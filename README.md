@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Click Here](https://sahil18718.github.io/)
 
-- 💬 Ask me about **Node JS || Express || Mongo DB || Javascript || Python || CSS || My SQL**
+- 💬 Ask me about **Node JS || Express || Mongo DB || Javascript || Python || CSS || My SQL || React || Redis  **
 
 
 
