@@ -39,7 +39,7 @@
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="40" background="White"/> 
 </p>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil18718&langs_count=8)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil18718&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Sahil18718&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
