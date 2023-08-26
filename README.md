@@ -19,9 +19,7 @@ Sahil
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sahilmalviya18718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahilmalviya18718" height="30" width="40" /></a>
- <a href="https://mail.google.com/mail/u/0/?ogbl#inbox" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1b7Zb4f7LTEWo6_1mtrkyokm7LmL7zA8-5iBJnC_6&s" alt="sahilmalviya18718" height="30" width="40" align="320" /></a>
-</p>
+
 
 <h3 align="left"  margin-left="100px" background-color="white" >Languages and Tools:</h3>
 <p align="left"> 
