@@ -40,7 +40,6 @@ Sahil
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user="Sahil18718" alt="sahil18718" /></p>
 
 
 
