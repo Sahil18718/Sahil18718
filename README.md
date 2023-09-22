@@ -7,9 +7,9 @@
 <p align="center"> Experienced generative AI professional with 2 years of expertise, eager to transition into software engineering. Proficient coder, adaptable, and dedicated to learning. Track record of innovation, teamwork, and exceeding expectations</p>
 
 
-- 👨‍💻 Portfolio [Click Me] (https://sahil18718.github.io/)
+- 👨‍💻 Portfolio [Click Me](https://sahil18718.github.io/)
 
-- 💬 Ask me about **Node JS || Express || Mongo DB || Javascript || Python || CSS ||  **
+- 💬 Ask me about **Node JS || Express || Mongo DB || Javascript || Python || CSS || SQL || React || Redis || Restful API's **
 
 
 
