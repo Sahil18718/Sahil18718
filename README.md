@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sahil Malviya</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil18718&label=Profile%20views&color=0e75b6&style=flat" alt="sahil18718" /> </p>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="center"   src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" alt="">
-Sahil
 
+<p align="center"> Experienced generative AI professional with 2 years of expertise, eager to transition into software engineering. Proficient coder, adaptable, and dedicated to learning. Track record of innovation, teamwork, and exceeding expectations</p>
 - 👨‍💻[My Profile] **https://sahil18718.github.io/**
 
 - 
 
-- 💬 Ask me about **Node JS || Express || Mongo DB || Javascript || Python || CSS **
+- 💬 Ask me about **Node JS || Express || Mongo DB || Javascript || Python || CSS ||  **
 
 
 
