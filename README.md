@@ -6,7 +6,7 @@
 
 
 
-<h2 align="left">About me:</h2>
+<h1 align="left">About me:</h1>
 <p align="center"> Experienced generative AI professional with 2 years of expertise, eager to transition into software engineering. Proficient coder, adaptable, and dedicated to learning. Track record of innovation, teamwork, and exceeding expectations</p>
 
 
@@ -15,7 +15,7 @@
 - 📄 Resume [Click Here](https://drive.google.com/file/d/1iAqMXfsBQPrOkNgpgzhok94RpIugudPi/view)
 
 
-<h2 align="left">Connect with me:</h2>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/sahilmalviya18718" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUi6pftqGAekqczSVWF9iW2y4KjedKDRIQzqAGEDcqqQ&s" alt="sahilmalviya18718" height="55" width="50" /></a>
 <a href="mailto:sm.sahilmalviya@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="30" width="50" /></a>
@@ -24,7 +24,7 @@
 
 
 
-<h2 align="left">Languages and Tools:</h2>
+<h1 align="left">Languages and Tools:</h1>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW7qetTDhNVkw5CuPWxJ8J4T-E0HId1AB66JsFQBPj&s" alt="aws" width="50" height="55"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3-thumbnail.png" alt="css3" width="50" height="55"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="55"/> </a>
