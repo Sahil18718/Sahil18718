@@ -5,9 +5,9 @@
 <img align="center"   src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" alt="">
 
 <p align="center"> Experienced generative AI professional with 2 years of expertise, eager to transition into software engineering. Proficient coder, adaptable, and dedicated to learning. Track record of innovation, teamwork, and exceeding expectations</p>
-- 👨‍💻[My Profile] **https://sahil18718.github.io/**
 
-- 
+
+- 👨‍💻[My Profile] **https://sahil18718.github.io/**
 
 - 💬 Ask me about **Node JS || Express || Mongo DB || Javascript || Python || CSS ||  **
 
