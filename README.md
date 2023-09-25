@@ -11,7 +11,7 @@
 
 
 - 👨‍💻 Portfolio [Click Here](https://sahil18718.github.io/)
-- 💬 Ask me about **Node JS || Express || Mongo DB || Javascript || Python || CSS || SQL || React || Redis || Restful API's || Socket io**
+- 💬 Ask me about **Node JS || Express || Mongo DB || Javascript || Python || CSS || SQL || React || Redis || Socket io**
 - 📄 Resume [Click Here](https://drive.google.com/file/d/1iAqMXfsBQPrOkNgpgzhok94RpIugudPi/view)
 
 
