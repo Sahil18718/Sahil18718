@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Node JS || Express || Mongo DB || Javascript || Python || CSS || SQL || React || Redis || Socket io**
+**Node JS || Express || Mongo DB || Javascript || Python || CSS || SQL || React JS || Redis || Socket io**
 
 
 ## 🌐 Socials:
