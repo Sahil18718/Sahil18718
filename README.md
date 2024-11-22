@@ -1,5 +1,5 @@
 # 💫 About Me:
-**React Native || Next JS || React JS ||Node JS || Express || Mongo DB || Javascript || Python || CSS || SQL || React JS || Redis || Socket io**
+**React Native || Next JS || React JS || Node JS || Express || Mongo DB || Typescript || Javascript || Python || Tailwind CSS || SQL || Redis || Socket io || Redux**
 
 
 ## 🌐 Socials:
