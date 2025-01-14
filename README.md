@@ -10,8 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sahil18718&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sahil18718&theme=dark&hide_border=false)<br/>
-### Top Languages Used
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil18718&langs_count=10&include_all_commits=true&count_private=true&layout=compact)
 <br/>
 
