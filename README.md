@@ -76,7 +76,9 @@ I enjoy building clean UI/UX experiences, solving complex problems, and developi
 # 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil18718&layout=compact&theme=github_dark&hide_border=true&langs_count=10" height="170"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sahil18718&theme=github_dark"
+  />
 </p>
 
 ---
@@ -102,29 +104,6 @@ I enjoy building clean UI/UX experiences, solving complex problems, and developi
 # 🔝 Top Contributed Repositories
 
 [![Top Repos](https://github-contributor-stats.vercel.app/api?username=Sahil18718&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/Sahil18718)
-
----
-
-# 📌 Featured Projects
-
-### 🚀 Gaming Platform
-- Real-time gaming platform with matchmaking, events, and leaderboards
-- Built using React, React Native, Node.js & MongoDB
-
-### 💍 Samaj App
-- Matrimonial mobile application with secure authentication and real-time features
-- Built with React Native, Firebase, AWS, Redis & Node.js
-
-### 🧠 CMS Workspace
-- Modern CMS platform built with Next.js, Tailwind CSS, TypeScript & MySQL
-
----
-
-# 📫 Contact
-
-📧 Email: **sahilmalviya18718@gmail.com**  
-📍 Location: **India**  
-💼 Open to: **Full Stack Developer Roles | React Native | Next.js | Backend Development**
 
 ---
 
