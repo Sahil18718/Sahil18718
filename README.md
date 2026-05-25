@@ -1,33 +1,36 @@
 # 💫 About Me
 
-## 👋 Hey, I'm Sahil Malviya
+<div align="center">
 
-🚀 Full Stack Developer with 2+ years of experience building scalable mobile and web applications using modern JavaScript ecosystems.
+# 👋 Hey, I'm Sahil Malviya
 
-I specialize in:
-- 📱 Cross-platform mobile apps with React Native
-- 🌐 High-performance web apps using Next.js & React
-- ⚙️ Backend systems with Node.js, Express.js & MongoDB
-- 🔄 Real-time systems using WebSocket & Socket.io
-- ☁️ Cloud integrations with AWS & Firebase
-- 🧠 Performance optimization, caching, and scalable architecture
+🚀 Full Stack Developer with 3+ years of experience building scalable mobile and web applications using modern JavaScript ecosystems.
 
-I enjoy building clean UI/UX experiences, solving complex problems, and developing products from idea to production.
+I specialize in building high-performance applications with clean architecture, scalable backend systems, and modern UI/UX experiences.
+
+</div>
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilmalviya18718/)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilmalviya18718/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://sahilmalviya.in/)
 [![GitHub](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahil18718)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilmalviya18718@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilmalviya18718@gmail.com)
+
+</div>
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
-## 🚀 Languages
+<div align="center">
+
+## 👨‍💻 Languages
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -35,25 +38,27 @@ I enjoy building clean UI/UX experiences, solving complex problems, and developi
 
 ---
 
-## ⚛️ Frontend Development
+## ⚛️ Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593d88?style=flat&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ---
 
-## ⚙️ Backend Development
+## ⚙️ Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 
 ---
 
-## 💾 Databases & Cloud
+## 💾 Database & Cloud
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -63,59 +68,91 @@ I enjoy building clean UI/UX experiences, solving complex problems, and developi
 
 ---
 
-## 🛠️ Tools & Platforms
+## 🛠️ Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-12100E?style=flat&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
-
----
-
-# 📈 Most Used Languages
-
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sahil18718&theme=tokyonight" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sahil18718&theme=tokyonight&utcOffset=5.5" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sahil18718&theme=tokyonight" />
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# 📈 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahil18718&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="165"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil18718&theme=github-dark&hide_border=true" height="165"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sahil18718&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sahil18718&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🚀 Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,redux,nodejs,express,mongodb,mysql,postgres,redis,firebase,aws,docker,tailwind,git,github,figma,postman,vscode&perline=7" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sahil18718&theme=tokyonight" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sahil18718&theme=tokyonight&utcOffset=5.5" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil18718&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahil18718&theme=darkhub&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sahil18718&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
 
 ---
 
 # 🔝 Top Contributed Repositories
 
-[![Top Repos](https://github-contributor-stats.vercel.app/api?username=Sahil18718&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/Sahil18718)
+<div align="center">
+
+[![Top Repo](https://github-contributor-stats.vercel.app/api?username=Sahil18718&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/Sahil18718)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sahil18718&icon=5&color=0"/>
-</p>
+<div align="center">
 
-<!-- Built & Customized by Sahil Malviya -->
+<img src="https://visitcount.itsvg.in/api?id=Sahil18718&icon=5&color=6" />
+
+</div>
+
+<!-- Built with ❤️ by Sahil Malviya -->
