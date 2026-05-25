@@ -75,11 +75,18 @@ I enjoy building clean UI/UX experiences, solving complex problems, and developi
 
 # 📈 Most Used Languages
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sahil18718&theme=github_dark"
-  />
-</p>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil18718&layout=compact&theme=radical&hide_border=true&langs_count=12"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sahil18718&show_icons=true&theme=radical&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,redux,nodejs,express,mongodb,mysql,postgres,redis,firebase,aws,tailwind,docker,git,github,figma,postman,vscode&perline=7" />
+
+</div>
 
 ---
 
