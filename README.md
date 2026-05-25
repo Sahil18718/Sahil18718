@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Sahil Malviya
 
-🚀 Full Stack Developer with 3+ years of experience building scalable mobile and web applications using modern JavaScript ecosystems.
+🚀 Full Stack Developer with 2+ years of experience building scalable mobile and web applications using modern JavaScript ecosystems.
 
 I specialize in building high-performance applications with clean architecture, scalable backend systems, and modern UI/UX experiences.
 
@@ -85,10 +85,6 @@ I specialize in building high-performance applications with clean architecture, 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sahil18718&theme=tokyonight" />
-
-<br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sahil18718&theme=tokyonight" />
 
 </div>
@@ -139,15 +135,6 @@ I specialize in building high-performance applications with clean architecture, 
 
 ---
 
-# 🔝 Top Contributed Repositories
-
-<div align="center">
-
-[![Top Repo](https://github-contributor-stats.vercel.app/api?username=Sahil18718&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/Sahil18718)
-
-</div>
-
----
 
 <div align="center">
 
