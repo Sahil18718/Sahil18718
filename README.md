@@ -1,6 +1,6 @@
 # 💫 About Me
 
-<div align="center">
+<div>
 
 # 👋 Hey, I'm Sahil Malviya
 
@@ -19,7 +19,7 @@ I specialize in building high-performance applications with clean architecture, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilmalviya18718/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://sahilmalviya.in/)
 [![GitHub](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahil18718)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilmalviya18718@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sm.sahilmalviya@gmail.com)
 
 </div>
 
@@ -40,9 +40,9 @@ I specialize in building high-performance applications with clean architecture, 
 
 ## ⚛️ Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593d88?style=flat&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
@@ -81,16 +81,6 @@ I specialize in building high-performance applications with clean architecture, 
 
 ---
 
-# 📈 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sahil18718&theme=tokyonight" />
-
-</div>
-
----
-
 # 🚀 Languages & Tools
 
 <div align="center">
@@ -107,10 +97,6 @@ I specialize in building high-performance applications with clean architecture, 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sahil18718&theme=tokyonight" />
 
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sahil18718&theme=tokyonight&utcOffset=5.5" />
-
 </div>
 
 ---
@@ -125,21 +111,6 @@ I specialize in building high-performance applications with clean architecture, 
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sahil18718&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-
-<div align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=Sahil18718&icon=5&color=6" />
-
-</div>
 
 <!-- Built with ❤️ by Sahil Malviya -->
