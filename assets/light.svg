@@ -265,7 +265,7 @@
           <text x="502" y="272"><tspan fill="#10B981">◈</tspan> <tspan fill="#475569">Location  </tspan> <tspan fill="#0F172A">Bengaluru, India</tspan></text>
         </g>
         <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.1s" fill="freeze"/>
-          <text x="502" y="300"><tspan fill="#06B6D4">◈</tspan> <tspan fill="#475569">Education </tspan> <tspan fill="#0F172A">B.Tech · Computer Science</tspan></text>
+          <text x="502" y="300"><tspan fill="#06B6D4">◈</tspan> <tspan fill="#475569">Education </tspan> <tspan fill="#0F172A">B.Tech </tspan></text>
         </g>
         <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.4s" fill="freeze"/>
           <text x="502" y="328"><tspan fill="#2563EB">◈</tspan> <tspan fill="#475569">Focus     </tspan> <tspan fill="#0F172A">Performance-first web &amp; AI products</tspan></text>
