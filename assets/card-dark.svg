@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1180 730" width="1180" height="730" font-family="'Segoe UI', 'SF Pro Display', -apple-system, Helvetica, Arial, sans-serif" role="img" aria-labelledby="cardTitle cardDesc">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1180 745" width="1180" height="745" font-family="'Segoe UI', 'SF Pro Display', -apple-system, Helvetica, Arial, sans-serif" role="img" aria-labelledby="cardTitle cardDesc">
   <title id="cardTitle">Sahil Malviya — Frontend Developer</title>
-  <desc id="cardDesc">Sahil Malviya, Frontend Developer at Bettrlabs, Bengaluru, India. 2+ years of experience. Tech stack: TypeScript, JavaScript, Python, SQL, Next.js, React, Redux Toolkit, Tailwind CSS, Storybook, React Native, Expo, Firebase, Node.js, Express.js, Socket.io, MongoDB, PostgreSQL, MySQL, Redis, AWS, GitHub Actions, CI/CD, Cloudflare, Docker, OpenAI, ElevenLabs, Razorpay, Stripe. Open to work. sahilmalviya.in</desc>
+  <desc id="cardDesc">Sahil Malviya, Frontend Developer at Bettrlabs, Bengaluru, India. 2+ years of experience. Tech stack: TypeScript, JavaScript, Python, SQL, Next.js, React, Redux Toolkit, Tailwind CSS, Storybook, React Native, Expo, Firebase, Node.js, Express.js, Socket.io, MongoDB, PostgreSQL, MySQL, Redis, AWS, GitHub Actions, CI/CD, Cloudflare, Docker, OpenAI, ElevenLabs, Razorpay, Stripe. Projects: Bettrlabs, Bettrlabs Labs, Sarla.ai, Chat Lynk. Open to work. sahilmalviya.in</desc>
 
   <style>
     a { cursor: pointer; }
@@ -79,11 +79,11 @@
     </filter>
 
     <clipPath id="cardClip">
-      <rect x="8" y="8" width="1164" height="714" rx="26"/>
+      <rect x="8" y="8" width="1164" height="729" rx="26"/>
     </clipPath>
   </defs>
 
-  <rect x="8" y="8" width="1164" height="714" rx="26" fill="url(#bgGrad)"/>
+  <rect x="8" y="8" width="1164" height="729" rx="26" fill="url(#bgGrad)"/>
 
   <g clip-path="url(#cardClip)">
     <g filter="url(#blurBig)">
@@ -91,43 +91,45 @@
         <animate attributeName="cy" values="150;230;150" dur="14s" repeatCount="indefinite"/>
         <animate attributeName="cx" values="230;290;230" dur="18s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="950" cy="590" r="230" fill="url(#glowBlue)">
-        <animate attributeName="cy" values="590;510;590" dur="16s" repeatCount="indefinite"/>
-        <animate attributeName="cx" values="950;890;950" dur="20s" repeatCount="indefinite"/>
+      <circle cx="960" cy="600" r="230" fill="url(#glowBlue)">
+        <animate attributeName="cy" values="600;520;600" dur="16s" repeatCount="indefinite"/>
+        <animate attributeName="cx" values="960;900;960" dur="20s" repeatCount="indefinite"/>
       </circle>
       <circle cx="640" cy="130" r="180" fill="url(#glowEmerald)">
         <animate attributeName="cx" values="640;720;640" dur="22s" repeatCount="indefinite"/>
       </circle>
-      <circle cx="300" cy="610" r="160" fill="url(#glowCyan)">
-        <animate attributeName="cy" values="610;550;610" dur="17s" repeatCount="indefinite"/>
+      <circle cx="300" cy="620" r="160" fill="url(#glowCyan)">
+        <animate attributeName="cy" values="620;560;620" dur="17s" repeatCount="indefinite"/>
       </circle>
     </g>
 
-    <rect x="8" y="8" width="1164" height="714" filter="url(#noise)" opacity="0.5"/>
+    <rect x="8" y="8" width="1164" height="729" filter="url(#noise)" opacity="0.5"/>
 
     <g fill="#22D3EE">
       <circle cx="120" cy="220" r="1.6" opacity="0.7"><animate attributeName="cy" values="220;140;220" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;0.8;0.2" dur="9s" repeatCount="indefinite"/></circle>
-      <circle cx="350" cy="500" r="1.3" opacity="0.6" fill="#7C3AED"><animate attributeName="cy" values="500;410;500" dur="11s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.1;0.7;0.1" dur="11s" repeatCount="indefinite"/></circle>
-      <circle cx="700" cy="640" r="1.8" opacity="0.6" fill="#10B981"><animate attributeName="cy" values="640;540;640" dur="13s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;0.9;0.2" dur="13s" repeatCount="indefinite"/></circle>
-      <circle cx="1050" cy="200" r="1.4" opacity="0.6"><animate attributeName="cy" values="200;290;200" dur="10s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.1;0.7;0.1" dur="10s" repeatCount="indefinite"/></circle>
-      <circle cx="560" cy="360" r="1.2" opacity="0.5" fill="#7C3AED"><animate attributeName="cx" values="560;620;560" dur="15s" repeatCount="indefinite"/></circle>
-      <circle cx="980" cy="450" r="1.5" opacity="0.6"><animate attributeName="cy" values="450;370;450" dur="12s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;0.8;0.2" dur="12s" repeatCount="indefinite"/></circle>
-      <circle cx="200" cy="410" r="1.1" opacity="0.5" fill="#10B981"><animate attributeName="cy" values="410;350;410" dur="14s" repeatCount="indefinite"/></circle>
+      <circle cx="350" cy="510" r="1.3" opacity="0.6" fill="#7C3AED"><animate attributeName="cy" values="510;420;510" dur="11s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.1;0.7;0.1" dur="11s" repeatCount="indefinite"/></circle>
+      <circle cx="700" cy="660" r="1.8" opacity="0.6" fill="#10B981"><animate attributeName="cy" values="660;560;660" dur="13s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;0.9;0.2" dur="13s" repeatCount="indefinite"/></circle>
+      <circle cx="1090" cy="210" r="1.4" opacity="0.6"><animate attributeName="cy" values="210;300;210" dur="10s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.1;0.7;0.1" dur="10s" repeatCount="indefinite"/></circle>
+      <circle cx="560" cy="370" r="1.2" opacity="0.5" fill="#7C3AED"><animate attributeName="cx" values="560;620;560" dur="15s" repeatCount="indefinite"/></circle>
+      <circle cx="1000" cy="470" r="1.5" opacity="0.6"><animate attributeName="cy" values="470;390;470" dur="12s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;0.8;0.2" dur="12s" repeatCount="indefinite"/></circle>
+      <circle cx="200" cy="420" r="1.1" opacity="0.5" fill="#10B981"><animate attributeName="cy" values="420;360;420" dur="14s" repeatCount="indefinite"/></circle>
     </g>
 
-    <!-- ============ SINGLE WINDOW ============ -->
+    <!-- ==================================================== -->
+    <!-- ============ LEFT WINDOW: sahil@dev ~ zsh ========== -->
+    <!-- ==================================================== -->
     <g>
-      <rect x="28" y="28" width="1124" height="674" rx="20" fill="url(#glass)"/>
-      <rect x="28" y="28" width="1124" height="674" rx="20" fill="url(#sheen)"/>
-      <rect x="28" y="28" width="1124" height="674" rx="20" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+      <rect x="28" y="28" width="760" height="689" rx="20" fill="url(#glass)"/>
+      <rect x="28" y="28" width="760" height="689" rx="20" fill="url(#sheen)"/>
+      <rect x="28" y="28" width="760" height="689" rx="20" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
 
       <g>
         <circle cx="52" cy="52" r="5" fill="#ff5f57"/>
         <circle cx="70" cy="52" r="5" fill="#febc2e"/>
         <circle cx="88" cy="52" r="5" fill="#28c840"/>
-        <text x="590" y="56" text-anchor="middle" fill="#94A3B8" font-size="11" letter-spacing="1">sahil@dev ~ zsh</text>
+        <text x="408" y="56" text-anchor="middle" fill="#94A3B8" font-size="11" letter-spacing="1">sahil@dev ~ zsh</text>
       </g>
-      <line x1="28" y1="76" x2="1152" y2="76" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+      <line x1="28" y1="76" x2="788" y2="76" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
 
       <!-- Greeting -->
       <g opacity="0">
@@ -144,179 +146,51 @@
       </text>
 
       <!-- Typing role line -->
-      <g font-size="21" font-weight="600" font-family="'Courier New', monospace">
-        <text x="60" y="224" fill="#22D3EE">
-          <tspan fill="#7C3AED">&gt;&#160;</tspan><tspan id="role">Frontend Developer</tspan>
-          <animate attributeName="opacity" values="1;1" dur="1s" begin="0s"/>
-        </text>
-        <text x="82" y="224" fill="#22D3EE">
-          <tspan>Frontend Developer</tspan>
-          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.28;0.33" dur="14s" begin="1.4s" repeatCount="indefinite"/>
-        </text>
-        <text x="82" y="224" fill="#22D3EE" opacity="0">
-          <tspan>Full Stack Developer</tspan>
-          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.28;0.33" dur="14s" begin="4.2s" repeatCount="indefinite"/>
-        </text>
-        <text x="82" y="224" fill="#22D3EE" opacity="0">
-          <tspan>React Native Developer</tspan>
-          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.28;0.33" dur="14s" begin="7.0s" repeatCount="indefinite"/>
-        </text>
-        <text x="82" y="224" fill="#22D3EE" opacity="0">
-          <tspan>Open Source Contributor</tspan>
-          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.28;0.33" dur="14s" begin="9.8s" repeatCount="indefinite"/>
-        </text>
-        <text x="82" y="224" fill="#22D3EE" opacity="0">
-          <tspan>AI Enthusiast</tspan>
-          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.28;0.33" dur="14s" begin="12.6s" repeatCount="indefinite"/>
-        </text>
-        <rect x="60" y="209" width="10" height="20" fill="#22D3EE">
-          <animate attributeName="opacity" values="1;1;0;0;1" dur="1s" repeatCount="indefinite"/>
-        </rect>
+      <g font-size="21" font-weight="700" font-family="'Courier New', monospace" letter-spacing="0.5">
+        <text x="60" y="225" fill="#7C3AED">&gt;</text>
+        <g fill="#22D3EE">
+          <text x="84" y="225">Frontend Developer<tspan fill="#7C3AED">▌<animate attributeName="opacity" values="1;1;0;0;1" dur="1s" repeatCount="indefinite"/></tspan>
+            <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.28;0.33" dur="14s" begin="1.4s" repeatCount="indefinite"/>
+          </text>
+          <text x="84" y="225" opacity="0">Full Stack Developer<tspan fill="#7C3AED">▌<animate attributeName="opacity" values="1;1;0;0;1" dur="1s" repeatCount="indefinite"/></tspan>
+            <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.28;0.33" dur="14s" begin="4.2s" repeatCount="indefinite"/>
+          </text>
+          <text x="84" y="225" opacity="0">React Native Developer<tspan fill="#7C3AED">▌<animate attributeName="opacity" values="1;1;0;0;1" dur="1s" repeatCount="indefinite"/></tspan>
+            <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.28;0.33" dur="14s" begin="7.0s" repeatCount="indefinite"/>
+          </text>
+          <text x="84" y="225" opacity="0">Open Source Contributor<tspan fill="#7C3AED">▌<animate attributeName="opacity" values="1;1;0;0;1" dur="1s" repeatCount="indefinite"/></tspan>
+            <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.28;0.33" dur="14s" begin="9.8s" repeatCount="indefinite"/>
+          </text>
+          <text x="84" y="225" opacity="0">AI Enthusiast<tspan fill="#7C3AED">▌<animate attributeName="opacity" values="1;1;0;0;1" dur="1s" repeatCount="indefinite"/></tspan>
+            <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.28;0.33" dur="14s" begin="12.6s" repeatCount="indefinite"/>
+          </text>
+        </g>
       </g>
 
-      <!-- Info rows (3) -->
+      <!-- Info rows -->
       <g font-size="15.5" font-family="'Courier New', monospace">
         <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.8s" fill="freeze"/>
-          <text x="60" y="272" fill="#94A3B8"><tspan fill="#10B981">◈</tspan> <tspan fill="#94A3B8">Location   </tspan> <tspan fill="#F8FAFC">Bengaluru, India</tspan></text>
+          <text x="60" y="274" fill="#94A3B8"><tspan fill="#10B981">◈</tspan> <tspan fill="#94A3B8">Location   </tspan> <tspan fill="#F8FAFC">Bengaluru, India</tspan></text>
         </g>
         <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.1s" fill="freeze"/>
-          <text x="60" y="300" fill="#94A3B8"><tspan fill="#22D3EE">◈</tspan> <tspan fill="#94A3B8">Experience </tspan> <tspan fill="#F8FAFC">2+ years · </tspan><a href="https://bettrlabs.com/" xlink:href="https://bettrlabs.com/" target="_blank" rel="noopener noreferrer" aria-label="Bettrlabs"><tspan fill="#22D3EE">Bettrlabs</tspan></a><tspan fill="#F8FAFC"> · Open to work</tspan></text>
+          <text x="60" y="302" fill="#94A3B8"><tspan fill="#22D3EE">◈</tspan> <tspan fill="#94A3B8">Experience </tspan> <tspan fill="#F8FAFC">2+ years · </tspan><a href="https://bettrlabs.com/" xlink:href="https://bettrlabs.com/" target="_blank" rel="noopener noreferrer" aria-label="Bettrlabs"><tspan fill="#22D3EE">Bettrlabs</tspan></a><tspan fill="#F8FAFC"> · Open to work</tspan></text>
         </g>
         <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.4s" fill="freeze"/>
-          <text x="60" y="328" fill="#94A3B8"><tspan fill="#7C3AED">◈</tspan> <tspan fill="#94A3B8">Contact    </tspan> <a href="https://sahilmalviya.in/" xlink:href="https://sahilmalviya.in/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio website"><tspan fill="#F8FAFC">sahilmalviya.in</tspan></a><tspan fill="#94A3B8"> · </tspan><a href="mailto:sm.sahilmalviya@gmail.com" xlink:href="mailto:sm.sahilmalviya@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Email"><tspan fill="#F8FAFC">sm.sahilmalviya@gmail.com</tspan></a></text>
+          <text x="60" y="330" fill="#94A3B8"><tspan fill="#7C3AED">◈</tspan> <tspan fill="#94A3B8">Contact    </tspan> <a href="https://sahilmalviya.in/" xlink:href="https://sahilmalviya.in/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio website"><tspan fill="#F8FAFC">sahilmalviya.in</tspan></a><tspan fill="#94A3B8"> · </tspan><a href="mailto:sm.sahilmalviya@gmail.com" xlink:href="mailto:sm.sahilmalviya@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Email"><tspan fill="#F8FAFC">sm.sahilmalviya@gmail.com</tspan></a></text>
         </g>
       </g>
-
-      <!-- STACK label -->
-      <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.7s" fill="freeze"/>
-        <text x="60" y="374" fill="#94A3B8" font-size="13" letter-spacing="2" font-family="'Courier New', monospace"># STACK</text>
-      </g>
-
-      <!-- ============ STACK CATEGORIES ============ -->
-      <!-- Label col x=60. Pills start x=220. Pill h=30, gap 12. text-anchor middle, dy centers text. -->
-      <g>
-        <!-- Row 1: Languages y-center 402 -->
-        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.9s" fill="freeze"/>
-          <text x="60" y="407" font-size="13" letter-spacing="1" fill="#60A5FA" font-weight="700" font-family="'Courier New', monospace">Languages</text>
-        </g>
-        <g font-size="13" font-weight="600" text-anchor="middle" fill="#dbeafe">
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.94s" fill="freeze"/>
-            <rect x="220" y="387" width="102" height="30" rx="15" fill="rgba(59,130,246,0.12)" stroke="#3B82F6" stroke-opacity="0.5"/><text x="271" y="406">TypeScript</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.98s" fill="freeze"/>
-            <rect x="334" y="387" width="100" height="30" rx="15" fill="rgba(59,130,246,0.12)" stroke="#3B82F6" stroke-opacity="0.5"/><text x="384" y="406">JavaScript</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.02s" fill="freeze"/>
-            <rect x="446" y="387" width="74" height="30" rx="15" fill="rgba(59,130,246,0.12)" stroke="#3B82F6" stroke-opacity="0.5"/><text x="483" y="406">Python</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.06s" fill="freeze"/>
-            <rect x="532" y="387" width="52" height="30" rx="15" fill="rgba(59,130,246,0.12)" stroke="#3B82F6" stroke-opacity="0.5"/><text x="558" y="406">SQL</text></g>
-        </g>
-
-        <!-- Row 2: Frontend y-center 444 -->
-        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.10s" fill="freeze"/>
-          <text x="60" y="449" font-size="13" letter-spacing="1" fill="#22D3EE" font-weight="700" font-family="'Courier New', monospace">Frontend</text>
-        </g>
-        <g font-size="13" font-weight="600" text-anchor="middle" fill="#cffafe">
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.14s" fill="freeze"/>
-            <rect x="220" y="429" width="76" height="30" rx="15" fill="rgba(34,211,238,0.12)" stroke="#22D3EE" stroke-opacity="0.5"/><text x="258" y="448">Next.js</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.18s" fill="freeze"/>
-            <rect x="308" y="429" width="64" height="30" rx="15" fill="rgba(34,211,238,0.12)" stroke="#22D3EE" stroke-opacity="0.5"/><text x="340" y="448">React</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.22s" fill="freeze"/>
-            <rect x="384" y="429" width="120" height="30" rx="15" fill="rgba(34,211,238,0.12)" stroke="#22D3EE" stroke-opacity="0.5"/><text x="444" y="448">Redux Toolkit</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.26s" fill="freeze"/>
-            <rect x="516" y="429" width="112" height="30" rx="15" fill="rgba(34,211,238,0.12)" stroke="#22D3EE" stroke-opacity="0.5"/><text x="572" y="448">Tailwind CSS</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.30s" fill="freeze"/>
-            <rect x="640" y="429" width="90" height="30" rx="15" fill="rgba(34,211,238,0.12)" stroke="#22D3EE" stroke-opacity="0.5"/><text x="685" y="448">Storybook</text></g>
-        </g>
-
-        <!-- Row 3: Mobile y-center 486 -->
-        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.34s" fill="freeze"/>
-          <text x="60" y="491" font-size="13" letter-spacing="1" fill="#A78BFA" font-weight="700" font-family="'Courier New', monospace">Mobile</text>
-        </g>
-        <g font-size="13" font-weight="600" text-anchor="middle" fill="#ede9fe">
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.38s" fill="freeze"/>
-            <rect x="220" y="471" width="116" height="30" rx="15" fill="rgba(167,139,250,0.14)" stroke="#A78BFA" stroke-opacity="0.5"/><text x="278" y="490">React Native</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.42s" fill="freeze"/>
-            <rect x="348" y="471" width="60" height="30" rx="15" fill="rgba(167,139,250,0.14)" stroke="#A78BFA" stroke-opacity="0.5"/><text x="378" y="490">Expo</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.46s" fill="freeze"/>
-            <rect x="420" y="471" width="86" height="30" rx="15" fill="rgba(167,139,250,0.14)" stroke="#A78BFA" stroke-opacity="0.5"/><text x="463" y="490">Firebase</text></g>
-        </g>
-
-        <!-- Row 4: Backend y-center 528 -->
-        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.50s" fill="freeze"/>
-          <text x="60" y="533" font-size="13" letter-spacing="1" fill="#34D399" font-weight="700" font-family="'Courier New', monospace">Backend</text>
-        </g>
-        <g font-size="13" font-weight="600" text-anchor="middle" fill="#d1fae5">
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.54s" fill="freeze"/>
-            <rect x="220" y="513" width="80" height="30" rx="15" fill="rgba(52,211,153,0.13)" stroke="#34D399" stroke-opacity="0.5"/><text x="260" y="532">Node.js</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.58s" fill="freeze"/>
-            <rect x="312" y="513" width="96" height="30" rx="15" fill="rgba(52,211,153,0.13)" stroke="#34D399" stroke-opacity="0.5"/><text x="360" y="532">Express.js</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.62s" fill="freeze"/>
-            <rect x="420" y="513" width="84" height="30" rx="15" fill="rgba(52,211,153,0.13)" stroke="#34D399" stroke-opacity="0.5"/><text x="462" y="532">Socket.io</text></g>
-        </g>
-
-        <!-- Row 5: Data & Cloud y-center 570 -->
-        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.66s" fill="freeze"/>
-          <text x="60" y="575" font-size="13" letter-spacing="1" fill="#FBBF24" font-weight="700" font-family="'Courier New', monospace">Data &amp; Cloud</text>
-        </g>
-        <g font-size="13" font-weight="600" text-anchor="middle" fill="#fef3c7">
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.70s" fill="freeze"/>
-            <rect x="220" y="555" width="90" height="30" rx="15" fill="rgba(251,191,36,0.13)" stroke="#FBBF24" stroke-opacity="0.5"/><text x="265" y="574">MongoDB</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.74s" fill="freeze"/>
-            <rect x="322" y="555" width="100" height="30" rx="15" fill="rgba(251,191,36,0.13)" stroke="#FBBF24" stroke-opacity="0.5"/><text x="372" y="574">PostgreSQL</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.78s" fill="freeze"/>
-            <rect x="434" y="555" width="70" height="30" rx="15" fill="rgba(251,191,36,0.13)" stroke="#FBBF24" stroke-opacity="0.5"/><text x="469" y="574">MySQL</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.82s" fill="freeze"/>
-            <rect x="516" y="555" width="60" height="30" rx="15" fill="rgba(251,191,36,0.13)" stroke="#FBBF24" stroke-opacity="0.5"/><text x="546" y="574">Redis</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.86s" fill="freeze"/>
-            <rect x="588" y="555" width="56" height="30" rx="15" fill="rgba(251,191,36,0.13)" stroke="#FBBF24" stroke-opacity="0.5"/><text x="616" y="574">AWS</text></g>
-        </g>
-
-        <!-- Row 6: DevOps & Tools y-center 612 -->
-        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.90s" fill="freeze"/>
-          <text x="60" y="617" font-size="13" letter-spacing="1" fill="#FB923C" font-weight="700" font-family="'Courier New', monospace">DevOps &amp; Tools</text>
-        </g>
-        <g font-size="13" font-weight="600" text-anchor="middle" fill="#ffedd5">
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.94s" fill="freeze"/>
-            <rect x="220" y="597" width="122" height="30" rx="15" fill="rgba(251,146,60,0.13)" stroke="#FB923C" stroke-opacity="0.5"/><text x="281" y="616">GitHub Actions</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.98s" fill="freeze"/>
-            <rect x="354" y="597" width="64" height="30" rx="15" fill="rgba(251,146,60,0.13)" stroke="#FB923C" stroke-opacity="0.5"/><text x="386" y="616">CI/CD</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.02s" fill="freeze"/>
-            <rect x="430" y="597" width="96" height="30" rx="15" fill="rgba(251,146,60,0.13)" stroke="#FB923C" stroke-opacity="0.5"/><text x="478" y="616">Cloudflare</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.06s" fill="freeze"/>
-            <rect x="538" y="597" width="72" height="30" rx="15" fill="rgba(251,146,60,0.13)" stroke="#FB923C" stroke-opacity="0.5"/><text x="574" y="616">Docker</text></g>
-        </g>
-
-        <!-- Row 7: AI & Integrations y-center 654 -->
-        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.10s" fill="freeze"/>
-          <text x="60" y="659" font-size="13" letter-spacing="1" fill="#F472B6" font-weight="700" font-family="'Courier New', monospace">AI &amp; Integrations</text>
-        </g>
-        <g font-size="13" font-weight="600" text-anchor="middle" fill="#fce7f3">
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.14s" fill="freeze"/>
-            <rect x="220" y="639" width="76" height="30" rx="15" fill="rgba(244,114,182,0.13)" stroke="#F472B6" stroke-opacity="0.5"/><text x="258" y="658">OpenAI</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.18s" fill="freeze"/>
-            <rect x="308" y="639" width="94" height="30" rx="15" fill="rgba(244,114,182,0.13)" stroke="#F472B6" stroke-opacity="0.5"/><text x="355" y="658">ElevenLabs</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.22s" fill="freeze"/>
-            <rect x="414" y="639" width="84" height="30" rx="15" fill="rgba(244,114,182,0.13)" stroke="#F472B6" stroke-opacity="0.5"/><text x="456" y="658">Razorpay</text></g>
-          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.26s" fill="freeze"/>
-            <rect x="510" y="639" width="66" height="30" rx="15" fill="rgba(244,114,182,0.13)" stroke="#F472B6" stroke-opacity="0.5"/><text x="543" y="658">Stripe</text></g>
-        </g>
-      </g>
-
-      <!-- Divider -->
-      <line x1="60" y1="676" x2="1120" y2="676" stroke="rgba(255,255,255,0.07)" stroke-width="1" opacity="0">
-        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="4.3s" fill="freeze"/>
-      </line>
 
       <!-- Social icons -->
       <g opacity="0" fill="none" stroke="#94A3B8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
-        <animate attributeName="opacity" values="0;1" dur="0.6s" begin="4.4s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.6s" fill="freeze"/>
         <a href="https://github.com/Sahil18718" xlink:href="https://github.com/Sahil18718" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
-        <g transform="translate(60,688)">
+        <g transform="translate(60,356)">
           <circle cx="12" cy="12" r="17" fill="rgba(124,58,237,0.10)" stroke="#7C3AED" stroke-opacity="0.4"><animate attributeName="stroke-opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/></circle>
           <path d="M12 4.5c-4.1 0-7.5 3.4-7.5 7.5 0 3.3 2.2 6.1 5.2 7.1.4.1.5-.2.5-.4v-1.3c-2.1.4-2.6-.9-2.6-.9-.3-.8-.8-1.1-.8-1.1-.7-.4 0-.4 0-.4.7 0 1.1.7 1.1.7.7 1.1 1.7.8 2.1.6.1-.5.3-.8.5-1-1.7-.2-3.4-.8-3.4-3.7 0-.8.3-1.5.8-2 0-.2-.4-1 .1-2 0 0 .6-.2 2 .8.6-.2 1.2-.3 1.8-.3s1.2.1 1.8.3c1.4-1 2-.8 2-.8.5 1 .1 1.8.1 2 .5.5.8 1.2.8 2 0 2.9-1.7 3.5-3.4 3.7.3.2.5.7.5 1.4v2c0 .2.1.5.5.4 3-.9 5.2-3.7 5.2-7.1 0-4.1-3.4-7.5-7.5-7.5z" fill="#94A3B8" stroke="none"/>
         </g>
         </a>
         <a href="https://www.linkedin.com/in/sahilmalviya18718/" xlink:href="https://www.linkedin.com/in/sahilmalviya18718/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-        <g transform="translate(110,688)">
+        <g transform="translate(110,356)">
           <circle cx="12" cy="12" r="17" fill="rgba(34,211,238,0.10)" stroke="#22D3EE" stroke-opacity="0.4"><animate attributeName="stroke-opacity" values="0.3;0.8;0.3" dur="3s" begin="0.6s" repeatCount="indefinite"/></circle>
           <rect x="6" y="10" width="3" height="8" rx="0.5" fill="#94A3B8" stroke="none"/>
           <circle cx="7.5" cy="6.5" r="1.6" fill="#94A3B8" stroke="none"/>
@@ -324,24 +198,227 @@
         </g>
         </a>
         <a href="mailto:sm.sahilmalviya@gmail.com" xlink:href="mailto:sm.sahilmalviya@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Email">
-        <g transform="translate(160,688)">
+        <g transform="translate(160,356)">
           <circle cx="12" cy="12" r="17" fill="rgba(16,185,129,0.10)" stroke="#10B981" stroke-opacity="0.4"><animate attributeName="stroke-opacity" values="0.3;0.8;0.3" dur="3s" begin="1.2s" repeatCount="indefinite"/></circle>
           <rect x="5" y="7" width="14" height="10" rx="2"/>
           <path d="M5.5 8l6.5 5 6.5-5"/>
         </g>
         </a>
         <a href="https://sahilmalviya.in/" xlink:href="https://sahilmalviya.in/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio">
-        <g transform="translate(210,688)">
+        <g transform="translate(210,356)">
           <circle cx="12" cy="12" r="17" fill="rgba(124,58,237,0.10)" stroke="#7C3AED" stroke-opacity="0.4"><animate attributeName="stroke-opacity" values="0.3;0.8;0.3" dur="3s" begin="1.8s" repeatCount="indefinite"/></circle>
           <circle cx="12" cy="12" r="6.2"/>
           <path d="M5.8 12h12.4M12 5.8c1.8 2 1.8 10.4 0 12.4M12 5.8c-1.8 2-1.8 10.4 0 12.4"/>
         </g>
         </a>
       </g>
+
+      <line x1="60" y1="400" x2="756" y2="400" stroke="rgba(255,255,255,0.07)" stroke-width="1" opacity="0">
+        <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.8s" fill="freeze"/>
+      </line>
+
+      <!-- STACK label -->
+      <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.9s" fill="freeze"/>
+        <text x="60" y="424" fill="#94A3B8" font-size="13" letter-spacing="2" font-family="'Courier New', monospace"># STACK</text>
+      </g>
+
+      <!-- ============ STACK CATEGORIES ============ -->
+      <g>
+        <!-- Languages · center 452 -->
+        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.10s" fill="freeze"/>
+          <text x="60" y="457" font-size="13" letter-spacing="1" fill="#60A5FA" font-weight="700" font-family="'Courier New', monospace">Languages</text>
+        </g>
+        <g font-size="13" font-weight="600" text-anchor="middle" fill="#dbeafe">
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.14s" fill="freeze"/>
+            <rect x="220" y="437" width="102" height="30" rx="15" fill="rgba(59,130,246,0.12)" stroke="#3B82F6" stroke-opacity="0.5"/><text x="271" y="456">TypeScript</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.18s" fill="freeze"/>
+            <rect x="334" y="437" width="100" height="30" rx="15" fill="rgba(59,130,246,0.12)" stroke="#3B82F6" stroke-opacity="0.5"/><text x="384" y="456">JavaScript</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.22s" fill="freeze"/>
+            <rect x="446" y="437" width="74" height="30" rx="15" fill="rgba(59,130,246,0.12)" stroke="#3B82F6" stroke-opacity="0.5"/><text x="483" y="456">Python</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.26s" fill="freeze"/>
+            <rect x="532" y="437" width="52" height="30" rx="15" fill="rgba(59,130,246,0.12)" stroke="#3B82F6" stroke-opacity="0.5"/><text x="558" y="456">SQL</text></g>
+        </g>
+
+        <!-- Frontend · center 492 -->
+        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.30s" fill="freeze"/>
+          <text x="60" y="497" font-size="13" letter-spacing="1" fill="#22D3EE" font-weight="700" font-family="'Courier New', monospace">Frontend</text>
+        </g>
+        <g font-size="13" font-weight="600" text-anchor="middle" fill="#cffafe">
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.34s" fill="freeze"/>
+            <rect x="220" y="477" width="76" height="30" rx="15" fill="rgba(34,211,238,0.12)" stroke="#22D3EE" stroke-opacity="0.5"/><text x="258" y="496">Next.js</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.38s" fill="freeze"/>
+            <rect x="308" y="477" width="64" height="30" rx="15" fill="rgba(34,211,238,0.12)" stroke="#22D3EE" stroke-opacity="0.5"/><text x="340" y="496">React</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.42s" fill="freeze"/>
+            <rect x="384" y="477" width="120" height="30" rx="15" fill="rgba(34,211,238,0.12)" stroke="#22D3EE" stroke-opacity="0.5"/><text x="444" y="496">Redux Toolkit</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.46s" fill="freeze"/>
+            <rect x="516" y="477" width="112" height="30" rx="15" fill="rgba(34,211,238,0.12)" stroke="#22D3EE" stroke-opacity="0.5"/><text x="572" y="496">Tailwind CSS</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.50s" fill="freeze"/>
+            <rect x="640" y="477" width="90" height="30" rx="15" fill="rgba(34,211,238,0.12)" stroke="#22D3EE" stroke-opacity="0.5"/><text x="685" y="496">Storybook</text></g>
+        </g>
+
+        <!-- Mobile · center 532 -->
+        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.54s" fill="freeze"/>
+          <text x="60" y="537" font-size="13" letter-spacing="1" fill="#A78BFA" font-weight="700" font-family="'Courier New', monospace">Mobile</text>
+        </g>
+        <g font-size="13" font-weight="600" text-anchor="middle" fill="#ede9fe">
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.58s" fill="freeze"/>
+            <rect x="220" y="517" width="116" height="30" rx="15" fill="rgba(167,139,250,0.14)" stroke="#A78BFA" stroke-opacity="0.5"/><text x="278" y="536">React Native</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.62s" fill="freeze"/>
+            <rect x="348" y="517" width="60" height="30" rx="15" fill="rgba(167,139,250,0.14)" stroke="#A78BFA" stroke-opacity="0.5"/><text x="378" y="536">Expo</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.66s" fill="freeze"/>
+            <rect x="420" y="517" width="86" height="30" rx="15" fill="rgba(167,139,250,0.14)" stroke="#A78BFA" stroke-opacity="0.5"/><text x="463" y="536">Firebase</text></g>
+        </g>
+
+        <!-- Backend · center 572 -->
+        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.70s" fill="freeze"/>
+          <text x="60" y="577" font-size="13" letter-spacing="1" fill="#34D399" font-weight="700" font-family="'Courier New', monospace">Backend</text>
+        </g>
+        <g font-size="13" font-weight="600" text-anchor="middle" fill="#d1fae5">
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.74s" fill="freeze"/>
+            <rect x="220" y="557" width="80" height="30" rx="15" fill="rgba(52,211,153,0.13)" stroke="#34D399" stroke-opacity="0.5"/><text x="260" y="576">Node.js</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.78s" fill="freeze"/>
+            <rect x="312" y="557" width="96" height="30" rx="15" fill="rgba(52,211,153,0.13)" stroke="#34D399" stroke-opacity="0.5"/><text x="360" y="576">Express.js</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.82s" fill="freeze"/>
+            <rect x="420" y="557" width="84" height="30" rx="15" fill="rgba(52,211,153,0.13)" stroke="#34D399" stroke-opacity="0.5"/><text x="462" y="576">Socket.io</text></g>
+        </g>
+
+        <!-- Data &amp; Cloud · center 612 -->
+        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.86s" fill="freeze"/>
+          <text x="60" y="617" font-size="13" letter-spacing="1" fill="#FBBF24" font-weight="700" font-family="'Courier New', monospace">Data &amp; Cloud</text>
+        </g>
+        <g font-size="13" font-weight="600" text-anchor="middle" fill="#fef3c7">
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.90s" fill="freeze"/>
+            <rect x="220" y="597" width="90" height="30" rx="15" fill="rgba(251,191,36,0.13)" stroke="#FBBF24" stroke-opacity="0.5"/><text x="265" y="616">MongoDB</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.94s" fill="freeze"/>
+            <rect x="322" y="597" width="100" height="30" rx="15" fill="rgba(251,191,36,0.13)" stroke="#FBBF24" stroke-opacity="0.5"/><text x="372" y="616">PostgreSQL</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.98s" fill="freeze"/>
+            <rect x="434" y="597" width="70" height="30" rx="15" fill="rgba(251,191,36,0.13)" stroke="#FBBF24" stroke-opacity="0.5"/><text x="469" y="616">MySQL</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.02s" fill="freeze"/>
+            <rect x="516" y="597" width="60" height="30" rx="15" fill="rgba(251,191,36,0.13)" stroke="#FBBF24" stroke-opacity="0.5"/><text x="546" y="616">Redis</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.06s" fill="freeze"/>
+            <rect x="588" y="597" width="56" height="30" rx="15" fill="rgba(251,191,36,0.13)" stroke="#FBBF24" stroke-opacity="0.5"/><text x="616" y="616">AWS</text></g>
+        </g>
+
+        <!-- DevOps &amp; Tools · center 652 -->
+        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.10s" fill="freeze"/>
+          <text x="60" y="657" font-size="13" letter-spacing="1" fill="#FB923C" font-weight="700" font-family="'Courier New', monospace">DevOps &amp; Tools</text>
+        </g>
+        <g font-size="13" font-weight="600" text-anchor="middle" fill="#ffedd5">
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.14s" fill="freeze"/>
+            <rect x="220" y="637" width="122" height="30" rx="15" fill="rgba(251,146,60,0.13)" stroke="#FB923C" stroke-opacity="0.5"/><text x="281" y="656">GitHub Actions</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.18s" fill="freeze"/>
+            <rect x="354" y="637" width="64" height="30" rx="15" fill="rgba(251,146,60,0.13)" stroke="#FB923C" stroke-opacity="0.5"/><text x="386" y="656">CI/CD</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.22s" fill="freeze"/>
+            <rect x="430" y="637" width="96" height="30" rx="15" fill="rgba(251,146,60,0.13)" stroke="#FB923C" stroke-opacity="0.5"/><text x="478" y="656">Cloudflare</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.26s" fill="freeze"/>
+            <rect x="538" y="637" width="72" height="30" rx="15" fill="rgba(251,146,60,0.13)" stroke="#FB923C" stroke-opacity="0.5"/><text x="574" y="656">Docker</text></g>
+        </g>
+
+        <!-- AI &amp; Integrations · center 692 -->
+        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="4.30s" fill="freeze"/>
+          <text x="60" y="697" font-size="13" letter-spacing="1" fill="#F472B6" font-weight="700" font-family="'Courier New', monospace">AI &amp; Integrations</text>
+        </g>
+        <g font-size="13" font-weight="600" text-anchor="middle" fill="#fce7f3">
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.34s" fill="freeze"/>
+            <rect x="220" y="677" width="76" height="30" rx="15" fill="rgba(244,114,182,0.13)" stroke="#F472B6" stroke-opacity="0.5"/><text x="258" y="696">OpenAI</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.38s" fill="freeze"/>
+            <rect x="308" y="677" width="94" height="30" rx="15" fill="rgba(244,114,182,0.13)" stroke="#F472B6" stroke-opacity="0.5"/><text x="355" y="696">ElevenLabs</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.42s" fill="freeze"/>
+            <rect x="414" y="677" width="84" height="30" rx="15" fill="rgba(244,114,182,0.13)" stroke="#F472B6" stroke-opacity="0.5"/><text x="456" y="696">Razorpay</text></g>
+          <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.46s" fill="freeze"/>
+            <rect x="510" y="677" width="66" height="30" rx="15" fill="rgba(244,114,182,0.13)" stroke="#F472B6" stroke-opacity="0.5"/><text x="543" y="696">Stripe</text></g>
+        </g>
+      </g>
+    </g>
+
+    <!-- ==================================================== -->
+    <!-- ======== RIGHT WINDOW: sahil@projects ~ ls ========= -->
+    <!-- ==================================================== -->
+    <g>
+      <rect x="808" y="28" width="344" height="689" rx="20" fill="url(#glass)"/>
+      <rect x="808" y="28" width="344" height="689" rx="20" fill="url(#sheen)"/>
+      <rect x="808" y="28" width="344" height="689" rx="20" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+      <g>
+        <circle cx="832" cy="52" r="5" fill="#ff5f57"/>
+        <circle cx="850" cy="52" r="5" fill="#febc2e"/>
+        <circle cx="868" cy="52" r="5" fill="#28c840"/>
+        <text x="980" y="56" text-anchor="middle" fill="#94A3B8" font-size="11" letter-spacing="1">sahil@projects ~ ls</text>
+      </g>
+      <line x1="808" y1="76" x2="1152" y2="76" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+
+      <!-- prompt -->
+      <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.8s" fill="freeze"/>
+        <text x="832" y="107" font-size="13.5" font-family="'Courier New', monospace" fill="#94A3B8"><tspan fill="#10B981">$</tspan> ls ~/projects <tspan fill="#64748B">— 4 shipped</tspan></text>
+      </g>
+
+      <!-- ============ PROJECT CARDS ============ -->
+      <g font-family="'Courier New', monospace">
+
+        <!-- Bettrlabs -->
+        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="3.0s" fill="freeze"/>
+          <rect x="832" y="122" width="296" height="138" rx="14" fill="rgba(34,211,238,0.06)" stroke="#22D3EE" stroke-opacity="0.28"/>
+          <rect x="832" y="122" width="3.5" height="138" rx="2" fill="#22D3EE" opacity="0.75"/>
+          <text x="852" y="151" font-size="16" font-weight="700" fill="#F8FAFC">Bettrlabs</text>
+          <text x="1112" y="150" text-anchor="end" font-size="11" font-weight="700" fill="#22D3EE" opacity="0.9">WEB APP</text>
+          <text x="852" y="176" font-size="12.5" fill="#CBD5E1">Frontend migration &amp; design system</text>
+          <text x="852" y="194" font-size="12.5" fill="#CBD5E1">for a health-tech platform</text>
+          <text x="852" y="219" font-size="12" font-weight="700" fill="#34D399">✓ 100/100 Lighthouse</text>
+          <text x="852" y="238" font-size="11.5" fill="#8494A8">Next.js · TypeScript · Redux · Cloudflare</text>
+          <a href="https://bettrlabs.com/" xlink:href="https://bettrlabs.com/" target="_blank" rel="noopener noreferrer" aria-label="Bettrlabs live site">
+            <text x="852" y="256" font-size="12.5" font-weight="700" fill="#22D3EE">bettrlabs.com ↗</text>
+          </a>
+        </g>
+
+        <!-- Bettrlabs Labs -->
+        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="3.3s" fill="freeze"/>
+          <rect x="832" y="272" width="296" height="138" rx="14" fill="rgba(167,139,250,0.06)" stroke="#A78BFA" stroke-opacity="0.28"/>
+          <rect x="832" y="272" width="3.5" height="138" rx="2" fill="#A78BFA" opacity="0.75"/>
+          <text x="852" y="301" font-size="16" font-weight="700" fill="#F8FAFC">Bettrlabs Labs</text>
+          <text x="1112" y="300" text-anchor="end" font-size="11" font-weight="700" fill="#A78BFA" opacity="0.9">AI PLATFORM</text>
+          <text x="852" y="326" font-size="12.5" fill="#CBD5E1">Core AI platform for designing</text>
+          <text x="852" y="344" font-size="12.5" fill="#CBD5E1">and building physical products</text>
+          <text x="852" y="369" font-size="12" font-weight="700" fill="#34D399">✓ Owned end-to-end</text>
+          <text x="852" y="388" font-size="11.5" fill="#8494A8">Next.js · TypeScript · Redux · CI/CD</text>
+          <a href="https://go.bettrlabs.com/" xlink:href="https://go.bettrlabs.com/" target="_blank" rel="noopener noreferrer" aria-label="Bettrlabs Labs live site">
+            <text x="852" y="406" font-size="12.5" font-weight="700" fill="#A78BFA">go.bettrlabs.com ↗</text>
+          </a>
+        </g>
+
+        <!-- Sarla.ai -->
+        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="3.6s" fill="freeze"/>
+          <rect x="832" y="422" width="296" height="138" rx="14" fill="rgba(244,114,182,0.06)" stroke="#F472B6" stroke-opacity="0.28"/>
+          <rect x="832" y="422" width="3.5" height="138" rx="2" fill="#F472B6" opacity="0.75"/>
+          <text x="852" y="451" font-size="16" font-weight="700" fill="#F8FAFC">Sarla.ai</text>
+          <text x="1112" y="450" text-anchor="end" font-size="11" font-weight="700" fill="#F472B6" opacity="0.9">FULL-STACK</text>
+          <text x="852" y="476" font-size="12.5" fill="#CBD5E1">Voice-first onboarding for women</text>
+          <text x="852" y="494" font-size="12.5" fill="#CBD5E1">food entrepreneurs · FSSAI</text>
+          <text x="852" y="519" font-size="12" font-weight="700" fill="#34D399">✓ Built solo, end-to-end</text>
+          <text x="852" y="538" font-size="11.5" fill="#8494A8">Next.js · ElevenLabs · Voice AI · SEO</text>
+          <a href="https://sarla.ai/" xlink:href="https://sarla.ai/" target="_blank" rel="noopener noreferrer" aria-label="Sarla.ai live site">
+            <text x="852" y="556" font-size="12.5" font-weight="700" fill="#F472B6">sarla.ai ↗</text>
+          </a>
+        </g>
+
+        <!-- Chat Lynk -->
+        <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="3.9s" fill="freeze"/>
+          <rect x="832" y="572" width="296" height="138" rx="14" fill="rgba(52,211,153,0.06)" stroke="#34D399" stroke-opacity="0.28"/>
+          <rect x="832" y="572" width="3.5" height="138" rx="2" fill="#34D399" opacity="0.75"/>
+          <text x="852" y="601" font-size="16" font-weight="700" fill="#F8FAFC">Chat Lynk</text>
+          <text x="1112" y="600" text-anchor="end" font-size="11" font-weight="700" fill="#34D399" opacity="0.9">MOBILE APP</text>
+          <text x="852" y="626" font-size="12.5" fill="#CBD5E1">Real-time chat app for 50K+</text>
+          <text x="852" y="644" font-size="12.5" fill="#CBD5E1">concurrent users · Play Store</text>
+          <text x="852" y="669" font-size="12" font-weight="700" fill="#34D399">✓ 40% faster load times</text>
+          <text x="852" y="688" font-size="11.5" fill="#8494A8">React Native · WebSocket · Firebase</text>
+          <a href="https://chatlynk.in/" xlink:href="https://chatlynk.in/" target="_blank" rel="noopener noreferrer" aria-label="Chat Lynk live site">
+            <text x="852" y="706" font-size="12.5" font-weight="700" fill="#34D399">chatlynk.in ↗</text>
+          </a>
+        </g>
+      </g>
     </g>
 
     <!-- Border shimmer -->
-    <rect x="8" y="8" width="1164" height="714" rx="26" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.6"/>
-    <rect x="8" y="8" width="1164" height="714" rx="26" fill="none" stroke="url(#shimmer)" stroke-width="2" opacity="0.9"/>
+    <rect x="8" y="8" width="1164" height="729" rx="26" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.6"/>
+    <rect x="8" y="8" width="1164" height="729" rx="26" fill="none" stroke="url(#shimmer)" stroke-width="2" opacity="0.9"/>
   </g>
 </svg>
