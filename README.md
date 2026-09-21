@@ -1,127 +1,64 @@
 <div align="center">
-  <a href="https://sahilmalviya.in">
+
+  <a href="https://sahilmalviya.in/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
-      <img alt="Sahil Malviya — Full Stack Developer" src="./assets/dark.svg" width="100%">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card-light.svg">
+      <img alt="Sahil Malviya — Frontend Developer at Bettrlabs. React, Next.js, React Native, TypeScript, Node.js. Open to work." src="./assets/card-dark.svg" width="100%">
     </picture>
   </a>
+
+  <p>
+    <a href="https://sahilmalviya.in/"><img src="https://img.shields.io/badge/Portfolio-030712?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio"></a>
+    <a href="https://www.linkedin.com/in/sahilmalviya18718/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"></a>
+    <a href="https://github.com/Sahil18718"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub"></a>
+    <a href="mailto:sm.sahilmalviya@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email"></a>
+    <a href="https://drive.google.com/file/d/1iAqMXfsBQPrOkNgpgzhok94RpIugudPi/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-030712?style=for-the-badge&logo=googledrive&logoColor=7C3AED" alt="Resume"></a>
+  </p>
+
 </div>
 
 ---
-
-# 💫 About Me
 
 <div>
 
 # 👋 Hey, I'm Sahil Malviya
 
-🚀 Full Stack Developer with 2+ years of experience building scalable mobile and web applications using modern JavaScript ecosystems.
+**Frontend Developer** currently building performance-first product experiences at **[Bettrlabs](https://bettrlabs.com/)** and **labs.new**, from Bengaluru, India.
 
-I specialize in building high-performance applications with clean architecture, scalable backend systems, and modern UI/UX experiences.
+I'm a results-driven Full Stack Developer with **2+ years** of experience shipping high-performance web and mobile applications across SaaS, real-time communication, and community platforms. I specialize in **React, Next.js, React Native and Node.js**.
+
+Recent work includes achieving **100/100 Lighthouse scores** in Performance, SEO and Best Practices, building custom CMS and Storybook-driven design systems, and automating delivery with CI/CD pipelines. I also built **Chat Lynk**, a real-time app syncing **50K+ users** over WebSocket and Redux while cutting load times by **40%**.
+
+I believe in clean architecture, scalable backend systems, and developer-first workflows — whether that's optimizing frontend performance, designing robust APIs, or architecting micro frontends.
+
+📫 **Open to work** — full-time or contract. Reach me at **[sm.sahilmalviya@gmail.com](mailto:sm.sahilmalviya@gmail.com)** or **[sahilmalviya.in](https://sahilmalviya.in/)**.
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+## 📊 By The Numbers
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilmalviya18718/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://sahilmalviya.in/)
-[![GitHub](https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahil18718)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sm.sahilmalviya@gmail.com)
+| | | |
+|:---:|:---:|:---:|
+| **100/100** <br> Lighthouse Score | **50K+** <br> Users Handled | **40%** <br> Performance Boost |
+| **2+** <br> Years Experience | **6+** <br> Production Apps | **5+** <br> CI/CD Pipelines |
 
 </div>
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Featured Projects
 
-<div align="center">
-
-## 👨‍💻 Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-
----
-
-## ⚛️ Frontend
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593d88?style=flat&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
----
-
-## ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-
----
-
-## 💾 Database & Cloud
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-
----
-
-## 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-12100E?style=flat&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-</div>
-
----
-
-# 🚀 Languages & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,redux,nodejs,express,mongodb,mysql,postgres,redis,firebase,aws,docker,tailwind,git,github,figma,postman,vscode&perline=7" />
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sahil18718&theme=tokyonight" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil18718&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
+| Project | What it is | Stack |
+|---|---|---|
+| **[Bettrlabs](https://bettrlabs.com/)** | Frontend migration and design system for a health-tech platform — rebuilt from React to Next.js with a custom UI system and AI-driven insights. Hit perfect 100/100 Lighthouse scores. | `Next.js` `TypeScript` `Redux` `Tailwind` `Cloudflare` `CI/CD` |
+| **Sarla.ai** | Voice-first platform helping rural Indian women food entrepreneurs turn family recipes into FSSAI-certified products. Built solo end-to-end — a conversational ElevenLabs onboarding flow in regional languages replaces a 40+ field form. | `Next.js` `TypeScript` `ElevenLabs` `Voice AI` `App Router` |
+| **Bettrlabs Labs** | Core AI product platform at labs.new, built from scratch and owned end-to-end from architecture through production deployment. | `Next.js` `TypeScript` `Redux` `Tailwind` `GitHub Actions` |
+| **Chat Lynk** | Real-time chat app for 50K+ concurrent users, live on the Play Store. WebSocket-powered with 40% faster load times. | `React Native` `WebSocket` `Redux` `Firebase` |
 
 
 
